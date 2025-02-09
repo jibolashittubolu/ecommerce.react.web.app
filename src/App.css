@@ -87,9 +87,15 @@
   padding: 0.4rem;
 
   display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
   align-items: center;
   justify-content: center;
-  height: 5vh;
+  /* height: 5vh; */
+}
+
+.initial-state-input-box-label{
+  font-size: 0.9rem;
 }
 
 .initial-state-input-box{
