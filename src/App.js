@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-
 // TASKS
 // 1. Change the background to lime
 // 2. Add a new paragraph stating your interest in front-end development
